@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="false" always-add-relationships="false" generalizations="false" 
+  realizations="false" associations="true" dependencies="false" nesting-relationships="false">  
+  <class id="1" language="java" name="Calendar" project="PAAv8" file="/PAAv8/src/Calendar.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="141" width="154" x="129" y="31"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="true" signature="true" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="true" protected="false" private="false" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="ConnectionMySql" project="PAAv8" file="/PAAv8/src/ConnectionMySql.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="372" width="182" x="315" y="195"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="true" protected="false" private="false" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="LoginPane" project="PAAv8" file="/PAAv8/src/LoginPane.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="132" width="113" x="517" y="31"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="true" protected="false" private="false" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="MainGUI" project="PAAv8" file="/PAAv8/src/MainGUI.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="109" width="149" x="321" y="32"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="true" protected="false" private="false" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="MyDetailsPane" project="PAAv8" file="/PAAv8/src/MyDetailsPane.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="82" width="138" x="20" y="277"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="true" protected="false" private="false" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="PAADetails" project="PAAv8" file="/PAAv8/src/PAADetails.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="68" width="138" x="17" y="186"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="true" protected="false" private="false" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="PAAViewAppointmentsPane" project="PAAv8" 
+    file="/PAAv8/src/PAAViewAppointmentsPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="93" width="210" x="584" y="344"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="true" protected="false" private="false" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="RegisterPane" project="PAAv8" file="/PAAv8/src/RegisterPane.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="764" y="79"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="StudentAppointmentPane" project="PAAv8" 
+    file="/PAAv8/src/StudentAppointmentPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="75" width="221" x="642" y="212"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="true" protected="false" private="false" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="WellcomePane" project="PAAv8" file="/PAAv8/src/WellcomePane.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="74" width="133" x="9" y="439"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="true" protected="false" private="false" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="JSSEProvider" project="PAAv8" file="/PAAv8/src/JSSEProvider.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="921" y="507"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="true" protected="false" private="false" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="GmailSender" project="PAAv8" file="/PAAv8/src/GmailSender.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="915" y="375"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="true" protected="false" private="false" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <dependency id="13">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="14">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="15">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="16">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="17">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="18">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+    accessors="true" visibility="false">    
+    <attributes public="false" package="true" protected="false" private="false" static="false"/>    
+    <operations public="false" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="false" multiplicity="false"/>
+</class-diagram>
